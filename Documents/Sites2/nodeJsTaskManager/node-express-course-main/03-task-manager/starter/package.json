@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "jobs",
   "version": "1.0.0",
   "description": "",
@@ -18,4 +19,16 @@
   "devDependencies": {
     "nodemon": "^2.0.7"
   }
+=======
+  "name": "first_server",
+  "version": "1.0.0",
+  "description": "my first server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CH",
+  "license": "ISC"
+>>>>>>> 6b63c0ae11991ab1fb279c204a8c219de809c01f
 }
